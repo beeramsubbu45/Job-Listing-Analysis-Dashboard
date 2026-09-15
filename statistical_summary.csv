@@ -1,0 +1,28 @@
+,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+job_title,100,92,Python Programmer (Entry-Level),3,,,,,,,
+company_name,100,99,Garcia PLC,2,,,,,,,
+location,100,100,"Stewartbury, AA",1,,,,,,,
+job_description,100,100,"Senior Python Developer role at Payne, Roberts and Davis. The position involves professional responsibilities, teamwork, problem solving, communication, reporting and domain-specific tasks. Candidates should be organized, responsible and willing to learn. This is a demonstration description for the bundled dataset.",1,,,,,,,
+posted_date,100,1,2021-04-08,100,,,,,,,
+apply_link,100,100,https://realpython.github.io/fake-jobs/jobs/senior-python-developer-0.html,1,,,,,,,
+city,100,100,Stewartbury,1,,,,,,,
+region,100,3,AE,37,,,,,,,
+job_category,100,7,Other,26,,,,,,,
+experience_level,100,4,Mid Level,83,,,,,,,
+work_mode,100,3,On-site,34,,,,,,,
+salary_min,100.0,,,,67810.0,9860.844924562125,50000.0,60000.0,67500.0,75000.0,90000.0
+salary_max,100.0,,,,82810.0,9860.844924562125,65000.0,75000.0,82500.0,90000.0,105000.0
+salary_category,100,3,Medium,61,,,,,,,
+title_word_count,100.0,,,,2.25,0.8918825850158447,1.0,2.0,2.0,3.0,6.0
+description_length,100.0,,,,305.75,9.87638239908365,283.0,299.0,305.0,312.0,330.0
+description_word_count,100.0,,,,37.6,1.556997888323046,35.0,36.0,37.0,39.0,43.0
+python_required,100.0,,,,0.1,0.30151134457776363,0.0,0.0,0.0,0.0,1.0
+tech_keyword_count,100.0,,,,0.17,0.5695115752497348,0.0,0.0,0.0,0.0,3.0
+job_category_label,100.0,,,,3.65,2.1666666666666665,0.0,2.0,5.0,5.25,6.0
+experience_Entry Level,100.0,,,,0.03,0.1714466079977653,0.0,0.0,0.0,0.0,1.0
+experience_Mid Level,100.0,,,,0.83,0.3775251680686369,0.0,1.0,1.0,1.0,1.0
+experience_Mid/Senior,100.0,,,,0.12,0.3265986323710904,0.0,0.0,0.0,0.0,1.0
+experience_Senior,100.0,,,,0.02,0.14070529413628965,0.0,0.0,0.0,0.0,1.0
+work_Hybrid,100.0,,,,0.33,0.4725815626252608,0.0,0.0,0.0,1.0,1.0
+work_On-site,100.0,,,,0.34,0.47609522856952335,0.0,0.0,0.0,1.0,1.0
+work_Remote,100.0,,,,0.33,0.4725815626252608,0.0,0.0,0.0,1.0,1.0
